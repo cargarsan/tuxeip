@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/06/07 17:08:20.203.c,C:\Documents and Settings\Jeanne\Mes documents\Projets Borland Studio\Unit2.c=C:\D\Projects\tuxeip\windows\TuxEipDll\TurboCpp\Unit2.c</Transaction>
+    <Transaction>2007/06/07 17:08:31.781.bdsproj,C:\Documents and Settings\Jeanne\Mes documents\Projets Borland Studio\Project2.bdsproj=C:\D\Projects\tuxeip\windows\TuxEipDll\TurboCpp\TuxEipDll.bdsproj</Transaction>
+    <Transaction>2007/06/07 17:08:38.781.c,C:\D\Projects\tuxeip\windows\TuxEipDll\TurboCpp\Unit2.c=</Transaction>
+    <Transaction>2007/06/07 17:23:36.421.bdsproj,C:\D\Projects\tuxeip\windows\TuxEipDll\TurboCpp\TuxEipDll.bdsproj=C:\D\Projects\tuxeip\windows\TuxEipDll\TurboCpp\TuxEip.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

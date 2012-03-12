@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1173352380 c:\d\projects\tuxeip\src\ab.c
+	<errno.h>
+	<stdlib.h>
+	<string.h>
+	"AB.h"
+	"CIP_IOI.h"
+	"ErrCodes.h"
+	"CM.h"
+
+1181205117 c:\d\projects\tuxeip\src\ab.h
+	"TuxDef.h"
+	"CIP_Types.h"
+	"Ethernet_IP.h"
+
+1181224667 c:\d\projects\tuxeip\src\tuxdef.h
+
+1180617094 c:\d\projects\tuxeip\src\cip_types.h
+	"TuxDef.h"
+	<windef.h>
+
+1181198421 c:\d\projects\tuxeip\src\ethernet_ip.h
+	"TuxDef.h"
+	"CIP_Types.h"
+
+1172962186 c:\d\projects\tuxeip\src\cip_ioi.h
+	"TuxDef.h"
+	"CIP_Types.h"
+
+1181217875 c:\d\projects\tuxeip\src\errcodes.h
+	"TuxDef.h"
+
+1181198528 c:\d\projects\tuxeip\src\cm.h
+	"TuxDef.h"
+	"CIP_Types.h"
+	"Ethernet_IP.h"
+	"MR.h"
+
+1173352436 c:\d\projects\tuxeip\src\mr.h
+	"TuxDef.h"
+	"CIP_Types.h"
+	"Ethernet_IP.h"
+
+1173352462 c:\d\projects\tuxeip\src\cip_ioi.c
+	<limits.h>
+	<string.h>
+	"CIP_IOI.h"
+	"CM.h"
+
+1173361560 c:\d\projects\tuxeip\src\cm.c
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	"CM.h"
+	"CIP_Const.h"
+	"ErrCodes.h"
+	"CIP_IOI.h"
+
+1165245178 c:\d\projects\tuxeip\src\cip_const.h
+
+1181217888 c:\d\projects\tuxeip\src\errcodes.c
+	<string.h>
+	<stdio.h>
+	<stdarg.h>
+	"ErrCodes.h"
+
+1173365204 c:\d\projects\tuxeip\src\ethernet_ip.c
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"Ethernet_IP.h"
+	"SendData.h"
+	"EIP_Const.h"
+	"ErrCodes.h"
+	"CIP_Const.h"
+
+1181198544 c:\d\projects\tuxeip\src\senddata.h
+	"TuxDef.h"
+	"Ethernet_IP.h"
+
+1165245178 c:\d\projects\tuxeip\src\eip_const.h
+
+1181221209 c:\d\projects\tuxeip\src\lgx.c
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	"LGX.h"
+	"ErrCodes.h"
+	"CIP_Const.h"
+	"CIP_IOI.h"
+
+1180614064 c:\d\projects\tuxeip\src\lgx.h
+	"TuxDef.h"
+	"CIP_Types.h"
+	"Ethernet_IP.h"
+	"AB.h"
+
+1173437598 c:\d\projects\tuxeip\src\mr.c
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"MR.h"
+	"ErrCodes.h"
+	"CIP_Const.h"
+
+1181224721 c:\d\projects\tuxeip\src\plc.c
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	"PLC.h"
+	"ErrCodes.h"
+	"CIP_Const.h"
+	"CM.h"
+	"CIP_IOI.h"
+	<ctype.h>
+
+1173449938 c:\d\projects\tuxeip\src\plc.h
+	"TuxDef.h"
+	"CIP_Types.h"
+	"AB.h"
+	"Ethernet_IP.h"
+
+1180613555 c:\d\projects\tuxeip\src\senddata.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<winsock2.h>
+	<io.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netdb.h>
+	"SendData.h"
+	"ErrCodes.h"
+
+1181218884 c:\d\projects\tuxeip\src\tuxeipdll.c
+	<windows.h>
+	"TuxEip.h"
+
+1171662130 c:\d\projects\tuxeip\src\tuxeip.h
+	"ErrCodes.h"
+	"CIP_Types.h"
+	"CIP_Const.h"
+	"CIP_IOI.h"
+	"CIP_Objects.h"
+	"EIP_Const.h"
+	"Ethernet_IP.h"
+	"SendData.h"
+	"MR.h"
+	"CM.h"
+	"AB.h"
+	"LGX.h"
+	"PLC.h"
+	"ErrCodes.c"
+	"SendData.c"
+	"Ethernet_IP.c"
+	"CIP_IOI.c"
+	"MR.c"
+	"CM.c"
+	"AB.c"
+	"LGX.c"
+	"PLC.c"
+
+1173109962 c:\d\projects\tuxeip\src\cip_objects.h
+	"CIP_Types.h"
+
