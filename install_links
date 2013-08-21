@@ -1,0 +1,13 @@
+#!/bin/sh
+PROJECTDIR=/home/jeanne/projects
+
+ln -s $PROJECTDIR/sutil/src /usr/include/sutil
+ln -s $PROJECTDIR/sutil/build/libsutil.a /usr/lib/libsutil.a
+#ln -s $PROJECTDIR/odx/src /usr/include/odx
+#ln -s $PROJECTDIR/odx/build/libodx.a /usr/lib/libodx.a
+#ln -s $PROJECTDIR/simplex/src /usr/include/simplex
+#ln -s $PROJECTDIR/simplex/src/libsimplex.a /usr/lib/libsimplex.a
+#ln -s $PROJECTDIR/modbus/src /usr/include/modbus
+#ln -s $PROJECTDIR/modbus/src/libmodbus.a /usr/lib/libmodbus.a
+ln -s $PROJECTDIR/tuxeip/src /usr/include/tuxeip
+ln -s $PROJECTDIR/tuxeip/build/libtuxeip.a /usr/lib/libtuxeip.a

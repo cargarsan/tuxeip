@@ -1,0 +1,13 @@
+#!/bin/sh
+PROJECTDIR=/home/jeanne/projects
+
+rm /usr/include/sutil
+rm /sutil/src/libsutil.a /usr/lib/libsutil.a
+rm /usr/include/odx
+rm /usr/lib/libodx.a
+rm /usr/include/simplex
+rm /usr/lib/libsimplex.a
+rm /usr/include/modbus
+rm /usr/lib/libmodbus.a
+rm /usr/include/tuxeip
+rm /usr/lib/libtuxeip.a
